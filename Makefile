@@ -6,13 +6,22 @@
 #    By: jcamhi <jcamhi@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/11/25 18:15:40 by jcamhi            #+#    #+#              #
-#    Updated: 2017/08/31 16:17:35 by jcamhi           ###   ########.fr        #
+#    Updated: 2017/08/31 20:08:25 by jcamhi           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 SRC_PATH = ./
 
-SRC_NAME = ft_bzero.s
+SRC_NAME = ft_bzero.s \
+						ft_strcat.s \
+						ft_isalpha.s \
+						ft_isdigit.s \
+						ft_isalnum.s \
+						ft_isascii.s \
+						ft_isprint.s \
+						ft_toupper.s \
+						ft_tolower.s \
+						ft_puts.s
 
 OBJ_PATH = ./obj/
 TOBJ_PATH = ./tobj/
@@ -26,7 +35,7 @@ NAME_TEST_OBJ = $(TOBJ_PATH)main.o
 
 CC = nasm
 
-CFLAGS = -g
+CFLAGS = -g -O0
 
 OBJ_NAME = $(SRC_NAME:.s=.o)
 

@@ -1,19 +1,18 @@
-section .data
-msg:
-	.string db "Here"
-
 section .text
 	global _ft_bzero
-	extern _puts
 
 _ft_bzero:
+	push rbp
+	mov rbp,rsp
 	cmp rsi,0
-	je done
-	push rdi
-	lea rdi, [rel msg.string]
-	call _puts
-	pop rdi
+	je return
+	mov [rdi],byte 0
+	dec rsi
+	inc rdi
+	call _ft_bzero
+	pop rbp
 	ret
 
-done:
+return:
+	pop rbp
 	ret
