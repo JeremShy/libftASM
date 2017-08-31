@@ -14,7 +14,7 @@ _ft_toupper:
 	sub rdi, 32
 	jmp .quit
 
-.quit
+.quit:
 	mov rax, rdi
 	pop rbp
 	ret
