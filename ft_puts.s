@@ -2,6 +2,11 @@
 %define STDOUT 1
 %define WRITE 4
 
+section .data
+msg:
+	.string db 10
+	.len equ $ - msg.string
+
 section .text
 	global _ft_puts
 	extern _write
@@ -14,6 +19,12 @@ _ft_puts:
 	call .getsize
 	mov rdi, STDOUT
 	mov rdx, rax
+	mov rax, MACH_SYSCALL(WRITE)
+	syscall
+
+	mov rdi, STDOUT
+	lea rsi, [rel msg.string]
+	mov rdx, msg.len
 	mov rax, MACH_SYSCALL(WRITE)
 	syscall
 	jmp .quit

@@ -172,6 +172,17 @@ void	t_tolower()
 	printf("\e[38;5;2mSUCCESS\e[39m while testing ft_tolower\n");
 }
 
+void	t_strlen()
+{
+	if ((ft_strlen("") != strlen("")) ||
+				(ft_strlen("ABC") != strlen("ABC")))
+	{
+		printf("\e[38;5;1mERROR\e[39m while testing ft_strlen\n");
+		return ;
+	}
+	printf("\e[38;5;2mSUCCESS\e[39m while testing ft_strlen\n");
+}
+
 
 int main(int ac, char **av)
 {
@@ -187,7 +198,11 @@ int main(int ac, char **av)
 	t_toupper();
 	t_tolower();
 
-	ft_puts("coucou !\n");
+	ft_puts("coucou !");
+	puts("coucou !");
+
 	ft_puts("");
-	ft_puts("fwefew\n\0coucou !\n");
+	puts("");
+
+	t_strlen();
 }

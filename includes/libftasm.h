@@ -13,4 +13,5 @@ int		ft_isprint(int c);
 int		ft_toupper(int c);
 int		ft_tolower(int c);
 int		ft_puts(const char *c);
+size_t	ft_strlen(const char *s);
 #endif
