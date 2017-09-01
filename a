@@ -1,0 +1,1299 @@
+total 43
+drwxrwxr-x+  57 root  admin         1938 Aug 25 15:08 Applications
+drwxr-xr-x+  64 root  wheel         2176 Jul  7 17:50 Library
+drwxr-xr-x@   2 root  wheel           68 Oct 18  2015 Network
+drwxr-xr-x@   4 root  wheel          136 Jul  1 18:52 System
+drwxr-xr-x  108 root  admin         3672 Sep  1 11:59 Users
+drwxrwxrwt@   5 root  admin          170 Sep  1 07:57 Volumes
+drwxr-xr-x@  41 root  wheel         1394 Jul  1 18:52 bin
+drwxr-xr-x    2 root  wheel           68 Dec  1  2015 cdn
+drwxrwxr-t@   2 root  admin           68 Oct 18  2015 cores
+dr-xr-xr-x    3 root  wheel         4256 Aug 28 00:34 dev
+lrwxr-xr-x@   1 root  wheel           11 Oct 18  2015 etc -> private/etc
+drwx------   18 exam  applications   612 Aug 25 14:14 exam
+drwxrwxrwt    2 root  wheel           68 Jul  1 17:48 goinfre
+dr-xr-xr-x@   2 root  wheel           68 Oct 18  2015 home
+-rw-r--r--@   1 root  wheel          313 Aug 23  2015 installer.failurerequests
+dr-xr-xr-x@   2 root  wheel           68 Oct  6  2015 net
+drwxr-xr-x    3 root  wheel          102 Jul  1 17:58 nfs
+drwxr-xr-x@   3 root  wheel          102 Jul 13 14:18 opt
+drwxr-xr-x@   6 root  wheel          204 Oct 18  2015 private
+drwxr-xr-x@  60 root  wheel         2040 Jul  1 18:52 sbin
+dr-xr-xr-x    2 root  wheel            1 Aug 28 00:35 sgoinfre
+lrwxr-xr-x@   1 root  wheel           11 Oct 18  2015 tmp -> private/tmp
+drwxr-xr-x@  11 root  wheel          374 Nov 16  2015 usr
+lrwxr-xr-x@   1 root  wheel           11 Oct 18  2015 var -> private/var
+
+/Applications:
+total 0
+drwxr-xr-x@  3 root  wheel  102 Jul  1 18:51 App Store.app
+drwxr-xr-x   3 root  admin  102 Aug 22 01:07 Atom.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Automator.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Calculator.app
+drwxr-xr-x@  3 root  wheel  102 Jun  6  2016 Calendar.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Chess.app
+drwxr-xr-x   3 root  admin  102 Apr 27  2006 CocoaDialog.app
+drwxr-xr-x@  3 root  wheel  102 Nov 20  2016 Contacts.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 DVD Player.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Dashboard.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Dictionary.app
+drwxr-xr-x   3 root  admin  102 Feb  9  2017 Docker.app
+drwxr-xr-x@  3 root  wheel  102 Nov 20  2016 FaceTime.app
+drwxrwxr-x   3 root  admin  102 Dec 15  2016 FirefoxDeveloperEdition.app
+drwxr-xr-x   3 root  admin  102 Aug 15  2016 Flux.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Font Book.app
+drwxr-xr-x   3 root  admin  102 Sep  6  2016 Franz.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Game Center.app
+drwxrwxr-x   3 root  admin  102 May  9 05:03 Google Chrome.app
+drwxr-xr-x   3 root  admin  102 Aug 25  2012 GrandPerspective.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Image Capture.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Launchpad.app
+drwxr-xr-x@  3 root  wheel  102 Jun  6  2016 Mail.app
+drwxr-xr-x   3 root  admin  102 Aug 22 19:03 Managed Software Center.app
+drwxr-xr-x@  3 root  wheel  102 Jun  6  2016 Maps.app
+drwxr-xr-x@  3 root  wheel  102 Nov 20  2016 Messages.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Mission Control.app
+drwxr-xr-x@  3 root  wheel  102 Nov 20  2016 Notes.app
+drwxr-xr-x   3 root  wheel  102 Apr 11  2016 PAMP.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Photo Booth.app
+drwxr-xr-x@  3 root  wheel  102 Nov 20  2016 Photos.app
+drwxr-xr-x@  3 root  wheel  102 Nov 20  2016 Preview.app
+drwxr-xr-x@  9 root  wheel  306 Feb 16  2016 Python 3.4
+drwxr-xr-x@  3 root  wheel  102 Nov 20  2016 QuickTime Player.app
+drwxr-xr-x@  3 root  wheel  102 Jun  6  2016 Reminders.app
+drwxr-xr-x@  3 root  wheel  102 Jul  1 19:07 Safari.app
+drwxr-xr-x   3 root  admin  102 Mar 13 11:26 Slack.app
+drwxr-xr-x@  3 root  wheel  102 Jun  6  2016 Stickies.app
+drwxr-xr-x   3 root  admin  102 Sep 23  2016 Sublime Text.app
+drwxrwxr-x@  3 root  wheel  102 Mar 22  2016 System Preferences.app
+drwxr-xr-x   3 root  admin  102 Oct 22  2015 TeamSpeak 3 Client.app
+drwxr-xr-x@  3 root  wheel  102 Jun  6  2016 TextEdit.app
+drwxr-xr-x@  3 root  wheel  102 Mar 22  2016 Time Machine.app
+drwxrwxr-x   6 root  admin  204 Jul 13 14:56 Unity
+drwxr-xr-x+ 21 root  admin  714 Aug 22 19:03 Utilities
+drwxr-xr-x   3 root  admin  102 Jun  2  2016 VLC.app
+drwxr-xr-x   3 root  admin  102 Jul 13 14:18 VirtualBox.app
+drwxr-xr-x   3 root  admin  102 Apr  7 12:59 Visual Studio Code.app
+drwxr-xr-x   3 root  admin  102 Dec 22  2016 Xcode.app
+drwxr-xr-x+  3 root  wheel  102 Nov 20  2016 iBooks.app
+drwxr-xr-x   3 root  admin  102 May 29 13:23 iTerm.app
+drwxr-xr-x+  3 root  wheel  102 Jul  1 18:51 iTunes.app
+drwxr-xr-x   3 root  admin  102 Jan 27  2015 terminal-notifier.app
+
+/Applications/App Store.app:
+total 0
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 Contents
+
+/Applications/App Store.app/Contents:
+total 0
+-rw-r--r--   1 root  wheel  2475 Apr 14 18:55 Info.plist
+drwxr-xr-x   3 root  wheel   102 Jul  1 18:50 MacOS
+-rw-r--r--   1 root  wheel     8 Apr 14 18:55 PkgInfo
+drwxr-xr-x   3 root  wheel   102 Aug 23  2015 PlugIns
+drwxr-xr-x  71 root  wheel  2414 Jul  1 18:50 Resources
+drwxr-xr-x   3 root  wheel   102 Jul  1 18:50 _CodeSignature
+-rw-r--r--   1 root  wheel   460 Apr 14 18:55 version.plist
+
+/Applications/App Store.app/Contents/MacOS:
+total 32
+-rwxr-xr-x  1 root  wheel  37536 Apr 14 18:55 App Store
+
+/Applications/App Store.app/Contents/PlugIns:
+total 0
+drwxr-xr-x  3 root  wheel  102 Aug 23  2015 DockTile.docktileplugin
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin:
+total 0
+drwxr-xr-x  7 root  wheel  238 Jul  1 18:50 Contents
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents:
+total 0
+-rw-r--r--   1 root  wheel  1330 Apr 14 18:55 Info.plist
+drwxr-xr-x   3 root  wheel   102 Jul  1 18:50 MacOS
+drwxr-xr-x  36 root  wheel  1224 Sep 17  2015 Resources
+drwxr-xr-x   3 root  wheel   102 Jul  1 18:50 _CodeSignature
+-rw-r--r--   1 root  wheel   460 Apr 14 18:55 version.plist
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/MacOS:
+total 16
+-rwxr-xr-x  1 root  wheel  19472 Apr 14 18:55 DockTile
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources:
+total 0
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 ar.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 ca.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 cs.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 da.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 de.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 el.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 en.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 es.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 es_MX.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 fi.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 fr.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 he.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 hr.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 hu.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 id.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 it.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 ja.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 ko.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 ms.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 nl.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 no.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 pl.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 pt.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 pt_PT.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 ro.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 ru.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 sk.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 sv.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 th.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 tr.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 uk.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 vi.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 zh_CN.lproj
+drwxr-xr-x  3 root  wheel  102 Jul  1 18:50 zh_TW.lproj
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/ar.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:14 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/ca.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:02 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/cs.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:00 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/da.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:58 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/de.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:59 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/el.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:03 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/en.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:55 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/es.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:59 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/es_MX.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:57 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/fi.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:00 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/fr.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:02 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/he.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:57 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/hr.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:59 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/hu.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:02 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/id.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:59 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/it.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:02 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/ja.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:00 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/ko.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:02 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/ms.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:57 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/nl.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:00 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/no.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:03 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/pl.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:02 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/pt.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:58 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/pt_PT.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:57 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/ro.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:59 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/ru.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:59 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/sk.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:59 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/sv.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:01 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/th.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:58 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/tr.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:01 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/uk.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 18:58 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/vi.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:00 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/zh_CN.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:03 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/Resources/zh_TW.lproj:
+total 0
+-rw-r--r--  1 root  wheel  42 Apr 14 19:03 InfoPlist.strings
+
+/Applications/App Store.app/Contents/PlugIns/DockTile.docktileplugin/Contents/_CodeSignature:
+total 0
+-rw-r--r--  1 root  wheel  3793 Apr 14 18:55 CodeResources
+
+/Applications/App Store.app/Contents/Resources:
+total 3528
+-rw-r--r--  1 root  wheel    13020 Apr 14 18:55 0.tiff
+-rw-r--r--  1 root  wheel    12914 Apr 14 18:55 1.tiff
+-rw-r--r--  1 root  wheel    12856 Apr 14 18:55 10.tiff
+-rw-r--r--  1 root  wheel    12848 Apr 14 18:55 11.tiff
+-rw-r--r--  1 root  wheel    12866 Apr 14 18:55 12.tiff
+-rw-r--r--  1 root  wheel    12852 Apr 14 18:55 13.tiff
+-rw-r--r--  1 root  wheel    12788 Apr 14 18:55 14.tiff
+-rw-r--r--  1 root  wheel    12818 Apr 14 18:55 15.tiff
+-rw-r--r--  1 root  wheel    12798 Apr 14 18:55 16.tiff
+-rw-r--r--  1 root  wheel    12858 Apr 14 18:55 17.tiff
+-rw-r--r--  1 root  wheel    12808 Apr 14 18:55 18.tiff
+-rw-r--r--  1 root  wheel    12838 Apr 14 18:55 19.tiff
+-rw-r--r--  1 root  wheel    12872 Apr 14 18:55 2.tiff
+-rw-r--r--  1 root  wheel    12874 Apr 14 18:55 20.tiff
+-rw-r--r--  1 root  wheel    12836 Apr 14 18:55 21.tiff
+-rw-r--r--  1 root  wheel    12840 Apr 14 18:55 22.tiff
+-rw-r--r--  1 root  wheel    12862 Apr 14 18:55 23.tiff
+-rw-r--r--  1 root  wheel    12826 Apr 14 18:55 3.tiff
+-rw-r--r--  1 root  wheel    12856 Apr 14 18:55 4.tiff
+-rw-r--r--  1 root  wheel    12812 Apr 14 18:55 5.tiff
+-rw-r--r--  1 root  wheel    12830 Apr 14 18:55 6.tiff
+-rw-r--r--  1 root  wheel    12824 Apr 14 18:55 7.tiff
+-rw-r--r--  1 root  wheel    12844 Apr 14 18:55 8.tiff
+-rw-r--r--  1 root  wheel    12870 Apr 14 18:55 9.tiff
+drwxr-xr-x  3 root  wheel      102 Jun 17  2015 AppStore.help
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 Base.lproj
+-rw-r--r--  1 root  wheel       42 Apr 14 18:55 Localizable.strings
+-rw-r--r--  1 root  wheel  1103802 Apr 14 18:55 appStore.icns
+-rw-r--r--  1 root  wheel    81887 Apr 14 18:55 appStore.licns
+-rw-r--r--  1 root  wheel    85042 Apr 14 18:55 appstore.tiff
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 ar.lproj
+-rw-r--r--  1 root  wheel    30072 Apr 14 18:55 background.tiff
+-rw-r--r--  1 root  wheel   190420 Apr 14 18:55 backgroundTile.tiff
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 ca.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 cs.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 da.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 de.lproj
+-rw-r--r--  1 root  wheel    52005 Apr 14 18:55 desktop-finance-appstore.cssz
+-rw-r--r--  1 root  wheel     7777 Apr 14 18:55 desktop-finance-base.cssz
+-rw-r--r--  1 root  wheel     1365 Apr 14 18:55 desktop-finance-redeem.cssz
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 el.lproj
+drwxr-xr-x  3 root  wheel      102 Jul  1 18:50 en.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 es.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 es_MX.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 fi.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 fr.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 he.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 hr.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 hu.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 id.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 it.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 ja.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 ko.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 ms.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 nl.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 no.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 pl.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 pt.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 pt_PT.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 ro.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 ru.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 sk.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 sv.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 th.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 tr.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 uk.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 vi.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 zh_CN.lproj
+drwxr-xr-x  4 root  wheel      136 Jul  1 18:50 zh_TW.lproj
+
+/Applications/App Store.app/Contents/Resources/AppStore.help:
+total 0
+drwxr-xr-x  7 root  wheel  238 Jul  1 18:50 Contents
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents:
+total 0
+-rw-r--r--   1 root  wheel  1318 Jun 17  2015 Info.plist
+-rw-r--r--   1 root  wheel     8 Jun 17  2015 PkgInfo
+drwxr-xr-x  38 root  wheel  1292 Jul  1 18:50 Resources
+drwxr-xr-x   6 root  wheel   204 Jul  1 18:50 _CodeSignature
+-rw-r--r--   1 root  wheel   461 Aug  2  2015 version.plist
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources:
+total 8
+drwxr-xr-x  4 root  wheel  136 Jul  1 18:50 GlobalArt
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 ar.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 ca.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 cs.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 da.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 de.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 el.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 en.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 es.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 es_MX.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 fi.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 fr.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 he.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 hr.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 hu.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 id.lproj
+lrwxr-xr-x  1 root  wheel   49 Jul  1 18:49 index.html -> /Library/Documentation/Resources/Eagle/index.html
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 it.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 ja.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 ko.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 ms.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 nl.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 no.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 pl.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 pt.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 pt_PT.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 ro.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 ru.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 sk.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 sv.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 th.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 tr.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 uk.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 vi.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 zh_CN.lproj
+drwxr-xr-x  9 root  wheel  306 Jul  1 18:50 zh_TW.lproj
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/GlobalArt:
+total 216
+-rw-r--r--  1 root  wheel    5927 Jun 15  2015 AppIconDefault_AppStore.png
+-rw-r--r--  1 root  wheel  101472 Jun 15  2015 AppLanding_AppStore.png
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/ar.lproj:
+total 0
+-rw-r--r--  1 root  wheel   146 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   582 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   301 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    94 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  3133 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/ca.lproj:
+total 0
+-rw-r--r--  1 root  wheel   112 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   569 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   287 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    88 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2944 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/cs.lproj:
+total 0
+-rw-r--r--  1 root  wheel   170 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   581 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   305 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    88 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2792 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/da.lproj:
+total 0
+-rw-r--r--  1 root  wheel   158 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   573 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   297 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    85 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2669 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/de.lproj:
+total 0
+-rw-r--r--  1 root  wheel   112 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   565 Jul 17  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   287 Jul 17  2015 index.html
+-rw-r--r--  1 root  wheel    87 Jul 17  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2830 Jul 17  2015 navigation.json
+-rw-r--r--  1 root  wheel   858 Jul  3  2015 redirect.html
+-rw-r--r--  1 root  wheel  8980 Jul 17  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/el.lproj:
+total 0
+-rw-r--r--  1 root  wheel   178 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   617 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   329 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    95 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  3608 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/en.lproj:
+total 0
+-rw-r--r--  1 root  wheel   106 Aug  2  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   561 Jun 17  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   285 Jun 17  2015 index.html
+-rw-r--r--  1 root  wheel   118 Jun 17  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2614 Jun 17  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  8980 Jun 17  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/es.lproj:
+total 0
+-rw-r--r--  1 root  wheel    118 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel    576 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel    293 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel     89 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel   2913 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel    857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  17173 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/es_MX.lproj:
+total 0
+-rw-r--r--  1 root  wheel    118 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel    585 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel    299 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    121 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel   2858 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel    857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  17173 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/fi.lproj:
+total 0
+-rw-r--r--  1 root  wheel   142 Dec 19  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   569 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   289 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    86 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2674 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/fr.lproj:
+total 0
+-rw-r--r--  1 root  wheel    134 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel    571 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel    287 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel     89 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel   2839 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel    857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  11029 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/he.lproj:
+total 0
+-rw-r--r--  1 root  wheel   174 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   605 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   327 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    90 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  3041 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/hr.lproj:
+total 0
+-rw-r--r--  1 root  wheel   154 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   570 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   295 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    90 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2757 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/hu.lproj:
+total 0
+-rw-r--r--  1 root  wheel   158 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   579 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   299 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    89 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2901 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  8980 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/id.lproj:
+total 0
+-rw-r--r--  1 root  wheel   116 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   567 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   291 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel   100 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2691 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/it.lproj:
+total 0
+-rw-r--r--  1 root  wheel    112 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel    565 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel    287 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel     89 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel   2759 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel    857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  11029 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/ja.lproj:
+total 0
+-rw-r--r--  1 root  wheel   130 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   569 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   295 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    91 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  3261 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/ko.lproj:
+total 0
+-rw-r--r--  1 root  wheel   130 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   569 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   295 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    86 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2725 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/ms.lproj:
+total 0
+-rw-r--r--  1 root  wheel   116 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   579 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   291 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    96 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2730 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/nl.lproj:
+total 0
+-rw-r--r--  1 root  wheel   106 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   562 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   285 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    89 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2805 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/no.lproj:
+total 0
+-rw-r--r--  1 root  wheel   112 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   563 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   287 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel   111 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2682 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/pl.lproj:
+total 0
+-rw-r--r--  1 root  wheel   112 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   565 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   287 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    86 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2808 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/pt.lproj:
+total 0
+-rw-r--r--  1 root  wheel   112 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   576 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   293 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel   113 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2831 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/pt_PT.lproj:
+total 0
+-rw-r--r--  1 root  wheel   118 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   582 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   299 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel   111 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2890 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/ro.lproj:
+total 0
+-rw-r--r--  1 root  wheel   114 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   576 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   289 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    90 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2905 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/ru.lproj:
+total 0
+-rw-r--r--  1 root  wheel   150 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   602 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   307 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    95 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  3445 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/sk.lproj:
+total 0
+-rw-r--r--  1 root  wheel   170 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   579 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   303 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    91 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2888 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/sv.lproj:
+total 0
+-rw-r--r--  1 root  wheel    142 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel    566 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel    289 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel     88 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel   2670 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel    857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  17173 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/th.lproj:
+total 0
+-rw-r--r--  1 root  wheel   150 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   605 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   319 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    99 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  4084 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/tr.lproj:
+total 0
+-rw-r--r--  1 root  wheel   146 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   570 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   291 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    89 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2908 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/uk.lproj:
+total 0
+-rw-r--r--  1 root  wheel   150 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   585 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   307 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel   103 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  3421 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/vi.lproj:
+total 0
+-rw-r--r--  1 root  wheel   170 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   590 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   311 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel    98 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  3019 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/zh_CN.lproj:
+total 0
+-rw-r--r--  1 root  wheel   126 Dec 18  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   572 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   295 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel   122 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2603 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/zh_TW.lproj:
+total 0
+-rw-r--r--  1 root  wheel   134 Dec 17  2015 InfoPlist.strings
+-rw-r--r--  1 root  wheel   584 Jul  8  2015 fira54605090.html
+-rw-r--r--  1 root  wheel   307 Jul  8  2015 index.html
+-rw-r--r--  1 root  wheel   134 Jul  8  2015 locale-info.json
+-rw-r--r--  1 root  wheel  2606 Jul  8  2015 navigation.json
+-rw-r--r--  1 root  wheel   857 May  6  2015 redirect.html
+-rw-r--r--  1 root  wheel  6932 Jul  8  2015 search.helpindex
+
+/Applications/App Store.app/Contents/Resources/AppStore.help/Contents/_CodeSignature:
+total 0
+-rw-r--r--  1 root  wheel   152 Aug  2  2015 CodeDirectory
+-rw-r--r--  1 root  wheel    72 Aug  2  2015 CodeRequirements
+-rw-r--r--  1 root  wheel  4374 Aug  2  2015 CodeResources
+-rw-r--r--  1 root  wheel  4105 Aug  2  2015 CodeSignature
+
+/Applications/App Store.app/Contents/Resources/Base.lproj:
+total 16
+-rw-r--r--  1 root  wheel   2006 Apr 14 18:55 APStoreWindowController.nib
+-rw-r--r--  1 root  wheel  11489 Apr 14 18:55 MainMenu.nib
+
+/Applications/App Store.app/Contents/Resources/ar.lproj:
+total 0
+-rw-r--r--  1 root  wheel   147 Apr 14 19:14 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1378 Apr 14 19:14 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/ca.lproj:
+total 0
+-rw-r--r--  1 root  wheel   175 Apr 14 19:02 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1358 Apr 14 19:02 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/cs.lproj:
+total 0
+-rw-r--r--  1 root  wheel   126 Apr 14 19:00 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1466 Apr 14 19:00 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/da.lproj:
+total 16
+-rw-r--r--  1 root  wheel   124 Apr 14 18:58 InfoPlist.strings
+-rw-r--r--  1 root  wheel  9144 Apr 14 18:58 MainMenu.nib
+
+/Applications/App Store.app/Contents/Resources/de.lproj:
+total 0
+-rw-r--r--  1 root  wheel   121 Apr 14 18:59 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1303 Apr 14 18:59 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/el.lproj:
+total 0
+-rw-r--r--  1 root  wheel   161 Apr 14 19:03 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1655 Apr 14 19:03 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/en.lproj:
+total 0
+-rw-r--r--  1 root  wheel  121 Apr 14 18:55 InfoPlist.strings
+
+/Applications/App Store.app/Contents/Resources/es.lproj:
+total 0
+-rw-r--r--  1 root  wheel   171 Apr 14 18:59 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1301 Apr 14 18:59 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/es_MX.lproj:
+total 0
+-rw-r--r--  1 root  wheel   183 Apr 14 18:57 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1307 Apr 14 18:57 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/fi.lproj:
+total 16
+-rw-r--r--  1 root  wheel   157 Apr 14 19:00 InfoPlist.strings
+-rw-r--r--  1 root  wheel  9218 Apr 14 19:00 MainMenu.nib
+
+/Applications/App Store.app/Contents/Resources/fr.lproj:
+total 0
+-rw-r--r--  1 root  wheel   165 Apr 14 19:02 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1470 Apr 14 19:02 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/he.lproj:
+total 0
+-rw-r--r--  1 root  wheel   145 Apr 14 18:57 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1369 Apr 14 18:57 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/hr.lproj:
+total 0
+-rw-r--r--  1 root  wheel   159 Apr 14 18:59 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1311 Apr 14 18:59 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/hu.lproj:
+total 0
+-rw-r--r--  1 root  wheel   155 Apr 14 19:02 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1663 Apr 14 19:02 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/id.lproj:
+total 0
+-rw-r--r--  1 root  wheel   131 Apr 14 18:59 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1161 Apr 14 18:59 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/it.lproj:
+total 0
+-rw-r--r--  1 root  wheel   128 Apr 14 19:02 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1280 Apr 14 19:02 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/ja.lproj:
+total 0
+-rw-r--r--  1 root  wheel   370 Apr 14 19:00 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1167 Apr 14 19:00 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/ko.lproj:
+total 0
+-rw-r--r--  1 root  wheel   141 Apr 14 19:02 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1112 Apr 14 19:02 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/ms.lproj:
+total 0
+-rw-r--r--  1 root  wheel   125 Apr 14 18:57 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1171 Apr 14 18:57 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/nl.lproj:
+total 0
+-rw-r--r--  1 root  wheel   121 Apr 14 19:00 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1204 Apr 14 19:00 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/no.lproj:
+total 16
+-rw-r--r--  1 root  wheel   128 Apr 14 19:03 InfoPlist.strings
+-rw-r--r--  1 root  wheel  9176 Apr 14 19:03 MainMenu.nib
+
+/Applications/App Store.app/Contents/Resources/pl.lproj:
+total 0
+-rw-r--r--  1 root  wheel   134 Apr 14 19:02 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1292 Apr 14 19:02 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/pt.lproj:
+total 0
+-rw-r--r--  1 root  wheel   167 Apr 14 18:58 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1273 Apr 14 18:58 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/pt_PT.lproj:
+total 0
+-rw-r--r--  1 root  wheel   167 Apr 14 18:57 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1333 Apr 14 18:57 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/ro.lproj:
+total 0
+-rw-r--r--  1 root  wheel   126 Apr 14 18:59 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1392 Apr 14 18:59 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/ru.lproj:
+total 0
+-rw-r--r--  1 root  wheel   155 Apr 14 18:59 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1579 Apr 14 18:59 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/sk.lproj:
+total 0
+-rw-r--r--  1 root  wheel   163 Apr 14 18:59 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1552 Apr 14 18:59 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/sv.lproj:
+total 16
+-rw-r--r--  1 root  wheel   124 Apr 14 19:01 InfoPlist.strings
+-rw-r--r--  1 root  wheel  9158 Apr 14 19:01 MainMenu.nib
+
+/Applications/App Store.app/Contents/Resources/th.lproj:
+total 0
+-rw-r--r--  1 root  wheel   163 Apr 14 18:58 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1449 Apr 14 18:58 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/tr.lproj:
+total 0
+-rw-r--r--  1 root  wheel   157 Apr 14 19:01 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1427 Apr 14 19:01 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/uk.lproj:
+total 0
+-rw-r--r--  1 root  wheel   145 Apr 14 18:58 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1562 Apr 14 18:58 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/vi.lproj:
+total 0
+-rw-r--r--  1 root  wheel   155 Apr 14 19:00 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1487 Apr 14 19:00 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/zh_CN.lproj:
+total 0
+-rw-r--r--  1 root  wheel  129 Apr 14 19:03 InfoPlist.strings
+-rw-r--r--  1 root  wheel  995 Apr 14 19:03 MainMenu.strings
+
+/Applications/App Store.app/Contents/Resources/zh_TW.lproj:
+total 0
+-rw-r--r--  1 root  wheel   127 Apr 14 19:03 InfoPlist.strings
+-rw-r--r--  1 root  wheel  1013 Apr 14 19:03 MainMenu.strings
+
+/Applications/App Store.app/Contents/_CodeSignature:
+total 0
+-rw-r--r--  1 root  wheel  11059 Apr 14 18:55 CodeResources
+
+/Applications/Atom.app:
+total 0
+drwxr-xr-x@ 8 root  admin  272 Aug 25 11:32 Contents
+
+/Applications/Atom.app/Contents:
+total 104
+drwxr-xr-x@  9 root  admin    306 Aug 22 01:08 Frameworks
+-rw-r--r--@  1 root  admin  47783 Aug 22 01:08 Info.plist
+drwxr-xr-x@  3 root  admin    102 Aug 22 01:08 MacOS
+-rw-r--r--@  1 root  admin      8 Aug 22 01:07 PkgInfo
+drwxr-xr-x@ 61 root  admin   2074 Aug 22 01:08 Resources
+drwxr-xr-x@  3 root  admin    102 Aug 22 01:08 _CodeSignature
+
+/Applications/Atom.app/Contents/Frameworks:
+total 0
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:07 Atom Helper EH.app
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:07 Atom Helper NP.app
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:07 Atom Helper.app
+drwxr-xr-x@ 6 root  admin  204 Aug 25 11:11 Electron Framework.framework
+drwxr-xr-x@ 7 root  admin  238 Aug 25 11:11 Mantle.framework
+drwxr-xr-x@ 7 root  admin  238 Aug 25 11:11 ReactiveCocoa.framework
+drwxr-xr-x@ 7 root  admin  238 Aug 25 11:11 Squirrel.framework
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper EH.app:
+total 0
+drwxr-xr-x@ 6 root  admin  204 Aug 22 01:08 Contents
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper EH.app/Contents:
+total 16
+-rw-r--r--@ 1 root  admin  926 Aug 22 01:08 Info.plist
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:08 MacOS
+-rw-r--r--@ 1 root  admin    8 Aug 22 01:07 PkgInfo
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:08 _CodeSignature
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper EH.app/Contents/MacOS:
+total 40
+-rwxr-xr-x@ 1 root  admin  18368 Aug 22 01:08 Atom Helper EH
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper EH.app/Contents/_CodeSignature:
+total 8
+-rw-r--r--@ 1 root  admin  2004 Aug 22 01:08 CodeResources
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper NP.app:
+total 0
+drwxr-xr-x@ 6 root  admin  204 Aug 22 01:08 Contents
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper NP.app/Contents:
+total 16
+-rw-r--r--@ 1 root  admin  926 Aug 22 01:08 Info.plist
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:08 MacOS
+-rw-r--r--@ 1 root  admin    8 Aug 22 01:07 PkgInfo
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:08 _CodeSignature
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper NP.app/Contents/MacOS:
+total 40
+-rwxr-xr-x@ 1 root  admin  18368 Aug 22 01:08 Atom Helper NP
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper NP.app/Contents/_CodeSignature:
+total 8
+-rw-r--r--@ 1 root  admin  2004 Aug 22 01:08 CodeResources
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper.app:
+total 0
+drwxr-xr-x@ 6 root  admin  204 Aug 22 01:08 Contents
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper.app/Contents:
+total 16
+-rw-r--r--@ 1 root  admin  949 Aug 22 01:08 Info.plist
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:08 MacOS
+-rw-r--r--@ 1 root  admin    8 Aug 22 01:07 PkgInfo
+drwxr-xr-x@ 3 root  admin  102 Aug 22 01:08 _CodeSignature
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper.app/Contents/MacOS:
+total 40
+-rwxr-xr-x@ 1 root  admin  18352 Aug 22 01:08 Atom Helper
+
+/Applications/Atom.app/Contents/Frameworks/Atom Helper.app/Contents/_CodeSignature:
+total 8
+-rw-r--r--@ 1 root  admin  2004 Aug 22 01:08 CodeResources
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework:
+total 24
+lrwxr-xr-x@ 1 root  admin   35 Aug 25 15:08 Electron Framework -> Versions/Current/Electron Framework
+lrwxr-xr-x@ 1 root  admin   26 Aug 25 15:08 Libraries -> Versions/Current/Libraries
+lrwxr-xr-x@ 1 root  admin   26 Aug 25 15:08 Resources -> Versions/Current/Resources
+drwxr-xr-x@ 4 root  admin  136 Aug 25 11:11 Versions
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions:
+total 8
+drwxr-xr-x@ 6 root  admin  204 Aug 22 01:08 A
+lrwxr-xr-x@ 1 root  admin    1 Aug 25 15:08 Current -> A
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A:
+total 136264
+-rwxr-xr-x@  1 root  admin  69765328 Aug 22 01:08 Electron Framework
+drwxr-xr-x@  4 root  admin       136 Aug 22 01:07 Libraries
+drwxr-xr-x@ 63 root  admin      2142 Aug 22 01:08 Resources
+drwxr-xr-x@  3 root  admin       102 Aug 22 01:08 _CodeSignature
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries:
+total 40024
+-rw-r--r--@ 1 root  admin   2744160 Aug 22 01:07 libffmpeg.dylib
+-rwxr-xr-x@ 1 root  admin  17746584 Aug 22 01:07 libnode.dylib
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources:
+total 151584
+-rw-r--r--@ 1 root  admin       765 Aug 22 01:07 Info.plist
+-rw-r--r--@ 1 root  admin      1885 Aug 22 01:07 MainMenu.nib
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 am.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ar.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 bg.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 bn.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ca.lproj
+-rw-r--r--@ 1 root  admin  10104043 Aug 22 01:07 content_shell.pak
+-rwxr-xr-x@ 1 root  admin    552092 Aug 22 01:07 crashpad_handler
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 cs.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 da.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 de.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 el.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 en.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 en_GB.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 es.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 es_419.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 et.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 fa.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 fi.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 fil.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 fr.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 gu.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 he.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 hi.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 hr.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 hu.lproj
+-rw-r--r--@ 1 root  admin  10130464 Aug 22 01:07 icudtl.dat
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 id.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 it.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ja.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 kn.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ko.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 lt.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 lv.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ml.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 mr.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ms.lproj
+-rw-r--r--@ 1 root  admin    342741 Aug 22 01:07 natives_blob.bin
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 nb.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 nl.lproj
+-rw-r--r--@ 1 root  admin    140074 Aug 22 01:07 pdf_viewer_resources.pak
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 pl.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 pt_BR.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 pt_PT.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ro.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ru.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 sk.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 sl.lproj
+-rw-r--r--@ 1 root  admin  56323640 Aug 22 01:08 snapshot_blob.bin
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 sr.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 sv.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 sw.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 ta.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 te.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 th.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 tr.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 uk.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 vi.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 zh_CN.lproj
+drwxr-xr-x@ 3 root  admin       102 Aug 22 01:07 zh_TW.lproj
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  6549 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  6180 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  7218 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj:
+total 24
+-rw-r--r--@ 1 root  admin  9380 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4416 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4287 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  3871 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4375 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  7788 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  3714 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en_GB.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  3709 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4683 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4574 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  3995 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  6114 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  4070 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4597 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4835 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj:
+total 24
+-rw-r--r--@ 1 root  admin  8785 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4883 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj:
+total 24
+-rw-r--r--@ 1 root  admin  8428 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4292 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4733 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  3901 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4402 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  5212 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj:
+total 24
+-rw-r--r--@ 1 root  admin  10013 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4226 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4501 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4624 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj:
+total 24
+-rw-r--r--@ 1 root  admin  11150 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj:
+total 24
+-rw-r--r--@ 1 root  admin  8586 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  4019 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  3832 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4113 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4272 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4226 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4292 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4667 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  6693 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4376 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4225 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  6736 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj:
+total 8
+-rw-r--r--@ 1 root  admin  3768 Aug 22 01:07 locale.pak
+
+/Applications/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj:
+total 16
+-rw-r--r--@ 1 root  admin  4265 Aug 22 01:07 locale.pak
+
+/Applic

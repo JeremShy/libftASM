@@ -26,5 +26,3 @@ _main:
 	syscall
 	leave
 	ret
-
-

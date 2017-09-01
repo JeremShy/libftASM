@@ -2,6 +2,10 @@
 #include <libftasm.h>
 #include <stdio.h>
 #include <ctype.h>
+#include <sys/types.h>
+#include <sys/uio.h>
+#include <unistd.h>
+#include <fcntl.h>
 
 void	t_bzero()
 {
@@ -265,6 +269,31 @@ void	t_memcpy()
 	printf("\e[38;5;2mSUCCESS\e[39m while testing ft_memcpy\n");
 }
 
+void	t_strdup()
+{
+	if ((memcmp(ft_strdup("pouetpouet"), strdup("pouetpouet"), sizeof("pouetpouet"))) ||
+				(memcmp(ft_strdup(""), strdup(""), sizeof(""))) ||
+				(memcmp(ft_strdup("a"), strdup("a"), sizeof("a"))) ||
+				(memcmp(ft_strdup("blblblblbl"), strdup("blblblblbl"), sizeof("blblblblbl"))))
+	{
+		printf("ft_strdupgnagna - %s\n", ft_strdup("pouetpouet"));
+		printf("\e[38;5;1mERROR\e[39m while testing ft_strdup\n");
+		return ;
+	}
+	printf("\e[38;5;2mSUCCESS\e[39m while testing ft_strdup\n");
+}
+//
+// void	t_cat()
+// {
+// 	char	buf[6];
+// 	int	r;
+//
+// 	while ((r = read(0, buf, 5)) > 0)
+// 	{
+// 		write(1, buf, r);
+// 	}
+// }
+
 
 int main(int ac, char **av)
 {
@@ -289,4 +318,6 @@ int main(int ac, char **av)
 	t_strlen();
 	t_memset();
 	t_memcpy();
+	t_strdup();
+	ft_cat(0);
 }
