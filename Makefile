@@ -6,7 +6,7 @@
 #    By: jcamhi <jcamhi@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/11/25 18:15:40 by jcamhi            #+#    #+#              #
-#    Updated: 2017/08/31 20:29:42 by jcamhi           ###   ########.fr        #
+#    Updated: 2017/09/01 13:19:38 by jcamhi           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -22,7 +22,9 @@ SRC_NAME = ft_bzero.s \
 						ft_toupper.s \
 						ft_tolower.s \
 						ft_puts.s \
-						ft_strlen.s
+						ft_strlen.s \
+						ft_memset.s \
+						ft_memcpy.s
 
 OBJ_PATH = ./obj/
 TOBJ_PATH = ./tobj/

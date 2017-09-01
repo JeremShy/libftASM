@@ -183,6 +183,88 @@ void	t_strlen()
 	printf("\e[38;5;2mSUCCESS\e[39m while testing ft_strlen\n");
 }
 
+void	t_memset()
+{
+	char mine1[12];
+	char mine2[12];
+	char mine3[12];
+	char mine4[12];
+
+	char sys1[12];
+	char sys2[12];
+	char sys3[12];
+	char sys4[12];
+
+	bzero(mine1, sizeof(mine1));
+	bzero(mine2, sizeof(mine2));
+	bzero(mine3, sizeof(mine3));
+	bzero(mine4, sizeof(mine4));
+
+	bzero(sys1, sizeof(sys1));
+	bzero(sys2, sizeof(sys2));
+	bzero(sys3, sizeof(sys3));
+	bzero(sys4, sizeof(sys4));
+
+	if ((memcmp(ft_memset(mine1, 'a', sizeof(sys1)), memset(sys1, 'a', sizeof(sys1)), sizeof(sys1)) != 0) ||
+				(memcmp(ft_memset(mine2, 0, sizeof(sys2)), memset(sys2, 0, sizeof(sys2)), sizeof(sys2)) != 0) ||
+				(memcmp(ft_memset(mine3, 3, 0), memset(sys3, 3, 0), sizeof(sys3)) != 0) ||
+				(memcmp(ft_memset(mine4, 1, 4), memset(sys4, 1, 4), sizeof(sys4)) != 0))
+	{
+		printf("\e[38;5;1mERROR\e[39m while testing ft_memset\n");
+		return ;
+	}
+	if ((memcmp(mine1, sys1, sizeof(sys1)) != 0) ||
+				(memcmp(mine2, sys2, sizeof(sys2)) != 0) ||
+				(memcmp(mine3, sys3, sizeof(sys3)) != 0) ||
+				(memcmp(mine4, sys4, sizeof(sys4)) != 0))
+	{
+		printf("\e[38;5;1mERROR\e[39m while testing ft_memset\n");
+		return ;
+	}
+	printf("\e[38;5;2mSUCCESS\e[39m while testing ft_memset\n");
+}
+
+void	t_memcpy()
+{
+	char mine1[12];
+	char mine2[12];
+	char mine3[12];
+	char mine4[12];
+
+	char sys1[12];
+	char sys2[12];
+	char sys3[12];
+	char sys4[12];
+
+	bzero(mine1, sizeof(mine1));
+	bzero(mine2, sizeof(mine2));
+	bzero(mine3, sizeof(mine3));
+	bzero(mine4, sizeof(mine4));
+
+	bzero(sys1, sizeof(sys1));
+	bzero(sys2, sizeof(sys2));
+	bzero(sys3, sizeof(sys3));
+	bzero(sys4, sizeof(sys4));
+
+	if ((memcmp(ft_memcpy(mine1, "123456", sizeof("123456")), memcpy(sys1, "123456", sizeof("123456")), sizeof(sys1)) != 0) ||
+				(memcmp(ft_memcpy(mine2, "", sizeof("")), memcpy(sys2, "", sizeof("")), sizeof(sys2)) != 0) ||
+				(memcmp(ft_memcpy(mine3, "caca", 2), memcpy(sys3, "caca", 2), sizeof(sys3)) != 0) ||
+				(memcmp(ft_memcpy(mine4, "creepymama", sizeof("creepymama")), memcpy(sys4, "creepymama", sizeof("creepymama")), sizeof(sys4)) != 0))
+	{
+		printf("\e[38;5;1mERROR\e[39m while testing ft_memcpy\n");
+		return ;
+	}
+	if ((memcmp(mine1, sys1, sizeof(sys1)) != 0) ||
+				(memcmp(mine2, sys2, sizeof(sys2)) != 0) ||
+				(memcmp(mine3, sys3, sizeof(sys3)) != 0) ||
+				(memcmp(mine4, sys4, sizeof(sys4)) != 0))
+	{
+		printf("\e[38;5;1mERROR\e[39m while testing ft_memcpy\n");
+		return ;
+	}
+	printf("\e[38;5;2mSUCCESS\e[39m while testing ft_memcpy\n");
+}
+
 
 int main(int ac, char **av)
 {
@@ -205,4 +287,6 @@ int main(int ac, char **av)
 	puts("");
 
 	t_strlen();
+	t_memset();
+	t_memcpy();
 }

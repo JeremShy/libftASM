@@ -1,3 +1,4 @@
 *.o
 libfts.a
 t_libftASM
+42FileChecker
