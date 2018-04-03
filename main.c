@@ -299,25 +299,52 @@ int main(int ac, char **av)
 {
 	(void)ac;
 	(void)av;
-	t_bzero();
-	t_strcat();
-	t_isalpha();
-	t_isdigit();
-	t_isalnum();
-	t_isascii();
-	t_isprint();
-	t_toupper();
-	t_tolower();
+	// t_bzero();
+	// t_strcat();
+	// t_isalpha();
+	// t_isdigit();
+	// t_isalnum();
+	// t_isascii();
+	// t_isprint();
+	// t_toupper();
+	// t_tolower();
+	//
+	// ft_puts("coucou !");
+	// puts("coucou !");
+	//
+	// ft_puts("");
+	// puts("");
+	//
+	// t_strlen();
+	// t_memset();
+	// t_memcpy();
+	// t_strdup();
+	// ft_cat(0);
+	char	buf1[10];
+	char	buf2[10];
+	char	str[] = "AAAA";
 
-	ft_puts("coucou !");
-	puts("coucou !");
-
-	ft_puts("");
-	puts("");
-
-	t_strlen();
-	t_memset();
-	t_memcpy();
-	t_strdup();
-	ft_cat(0);
+	memset(buf1, 'B', 9);
+	memset(buf2, 'B', 9);
+	buf1[4] = '\0';
+	buf2[4] = '\0';
+	strcat(buf1, str);
+	ft_strcat(buf2, str);
+	if (!memcmp(buf1, buf2, 9))
+	{
+		return(0);
+	}
+	printf("ERROR !!!\n");
+	printf("sys : \n");
+	for (int i = 0; i < 10; i++)
+	{
+		printf("%d - ", buf1[i]);
+	}
+	printf("\n");
+	printf("mine : \n");
+	for (int i = 0; i < 10; i++)
+	{
+		printf("%d - ", buf2[i]);
+	}
+	printf("\n");
 }

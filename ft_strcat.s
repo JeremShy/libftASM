@@ -18,12 +18,10 @@ _ft_strcat:
 	jmp .gotoendrdi
 
 .docopy:
-	cmp [rsi],byte 0
+	cmp byte [rsi],byte 0
 	je .put0andret
-	push rax
-	mov rax, [rsi]
-	mov [rdi], rax
-	pop rax
+	mov r8, [rsi]
+	mov [rdi], r8
 	inc rdi
 	inc rsi
 	jmp .docopy
